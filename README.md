@@ -1,1 +1,1 @@
-# Udacity-DataAnalyst-Nanodegree
+# Udacity DataAnalyst Nanodegree
